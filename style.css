@@ -1,5 +1,23 @@
+/* CSS HEX */
+
+
+/* --thistle: #cdb4dbff;
+--fairy-tale: #ffc8ddff;
+--carnation-pink: #ffafccff;
+--uranian-blue: #bde0feff;
+--light-sky-blue: #a2d2ffff;
+https://coolors.co/palette/cdb4db-ffc8dd-ffafcc-bde0fe-a2d2ff */
+
+
+body{
+  background-color:   #cdb4dbff;
+}
+
 img{
     width: 300px;
     border: 1px solid black;
     border-radius: 10px;
+}
+h1{ 
+    color:  #bde0feff;
 }
