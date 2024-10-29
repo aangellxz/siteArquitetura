@@ -1,0 +1,28 @@
+td{
+    border : 1px solid pink;
+    padding: 2px;
+    text-align: center;
+    background-color: pink;
+    border-radius: 4px;
+    color: rgb(0, 0, 0);
+}   
+
+th{
+    border : 1px solid pink;
+    padding: 2px;
+    text-align: center;
+    background-color: rgb(253, 154, 171);
+    border-radius: 4px;
+    color: rgb(0, 0, 0);
+}
+
+table{
+    background-color: rgb(137, 139, 141);
+    border-radius: 5px;
+    width: 100%;
+    
+}
+
+body{
+    background-color: rgb(234, 238, 241);
+}
